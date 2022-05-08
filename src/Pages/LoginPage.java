@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	String un = "admin";
 	String pwd = "admin";
 	System.out.println("Logging in...");
+	System.out.println("Logging out...");
 }
 }
