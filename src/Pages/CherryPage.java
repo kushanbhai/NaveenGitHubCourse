@@ -7,5 +7,9 @@ public class CherryPage {
 		int sal = 100;
 
 	}
+	
+	public void test() {
+		System.out.println("Test Feature");
+	}
 
 }
