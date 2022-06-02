@@ -6,6 +6,9 @@ public class CartPage {
 
 		String nameD1 = "cart D1";
 		System.out.println(nameD1);
+		if(true) {
+			System.out.println("cart is done!!");
+		}
 
 	}
 }
